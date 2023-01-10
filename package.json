@@ -21,12 +21,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yeasy/docker_practice.git"
+    "url": "git+https://github.com/WenjiaoYue/docker_practice"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/yeasy/docker_practice/issues"
   },
-  "homepage": "https://github.com/yeasy/docker_practice#readme"
+  "homepage": "https://github.com/WenjiaoYue/docker_practice#readme"
 }
